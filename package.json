@@ -1,0 +1,26 @@
+{
+  "name": "yuubin",
+  "version": "0.0.1",
+  "description": "Web Ui for express, meant for visualising http requests received by your api in a dev environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logging",
+    "web",
+    "ui",
+    "yuubin",
+    "log",
+    "express"
+  ],
+  "author": "Nicolas Ducom <me@nicolasdu.com> (nicolasdu.com)",
+  "license": "MIT",
+  "dependencies": {
+    "absoluteify": "^1.0.3",
+    "consolidate": "^0.14.5",
+    "express": "^4.14.0",
+    "inline-css": "^2.2.2",
+    "socket.io": "^1.7.2"
+  }
+}
